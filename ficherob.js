@@ -1,3 +1,3 @@
-console.log("*************")
-console.log("fichero b")
-console.log("*************")
+console.log("-------------")
+console.log("Soy el segundo fichero")
+console.log("-------------")
